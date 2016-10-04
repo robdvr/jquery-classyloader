@@ -1,0 +1,9 @@
+ClassySocial is a jQuery plugin that lets your add beautiful and animated
+loaders to your website.
+
+@name ClassyLoader
+@package jQuery plugin
+@author Marius Stanciu - Sergiu <marius@vox.space>
+@website https://vox.space/
+@version 1.2.3
+@license MIT https://vox.space/LICENSE-MIT
