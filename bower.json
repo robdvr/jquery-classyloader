@@ -1,0 +1,10 @@
+{
+  "name": "jquery-classyloader",
+  "version": "1.2.3",
+  "main": [
+    "js/jquery.classyloader.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.2"
+  }
+}
